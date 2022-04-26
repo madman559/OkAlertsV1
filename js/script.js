@@ -20,7 +20,7 @@ ourRequest.onload = function () {
         $('#result').append('<hr />');
 
     }
-    // console.log(summary);
+    
 
 };
 
